@@ -1,0 +1,15 @@
+# 가상 환경 폴더
+venv/
+
+# Python Bytecode 파일
+*.pyc
+
+# Flask instance 폴더
+instance/
+
+# SQLite DB 파일
+hugmind.db
+
+# 다른 개인적 파일들
+*.env
+
