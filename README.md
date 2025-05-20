@@ -15,3 +15,5 @@
 - 사용자 프로필, 팔로우 기능
 - 오늘의 감정 기록 저장
 
+📄 [최종 발표 PDF 보기](./mindhug_presentation.pdf)
+
